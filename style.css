@@ -1,0 +1,10 @@
+Task Done {
+	padding : 5px;
+	display : inline-block;
+	float : right;
+}
+
+p {
+	margin-top : 5px;
+	padding : 10px;
+}
